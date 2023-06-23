@@ -4,7 +4,8 @@
             <div
                 class=" dark:lg:bg-darker lg:p-16 rounded-[4rem] space-y-6 md:flex md:gap-6 justify-center md:space-y-0 lg:items-center">
                 <div class="md:5/12 lg:w-1/2">
-                    <img src="~/assets/3516822-removebg-preview.png" alt="image" loading="lazy" width="" height="" />
+                    <img id="floating" src="~/assets/3516822-removebg-preview.png" alt="image" loading="lazy" width=""
+                        height="" />
                 </div>
                 <div class="md:7/12 lg:w-1/2">
                     <h2 class="text-3xl font-bold text-white md:text-4xl dark:text-white">
@@ -33,4 +34,26 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+#floating {
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+@keyframes floating {
+    0% {
+        transform: translate(0, 0px);
+    }
+
+    50% {
+        transform: translate(0, 15px);
+    }
+
+    100% {
+        transform: translate(0, -0px);
+    }
+}</style>

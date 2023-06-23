@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-black">
+    <div id="myDiv">
         <section class="pt-10 bg-gradient-to-b from-[#101212] relative to-[#08201D] py-10  2xl:py-24  sm:pt-16 md:pt-0">
             <div class="px-4 mx-auto rounded-md bg-amber-400 max-w-7xl sm:px-6 lg:px-8">
                 <div class="2xl:pl-24">

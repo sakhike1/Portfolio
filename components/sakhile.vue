@@ -8,7 +8,7 @@
                     <blockquote class="sm:col-span-2">
                         <p class="text-xl font-medium sm:text-2xl text-white">
                             I'm a UI
-                            front-end developer, i like Building things on the web and i believe in adding value and going
+                            front-end developer, i like Building things on the web, i believe in adding value and going
                             above
                             and beyond
                         </p>
