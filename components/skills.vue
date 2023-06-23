@@ -17,8 +17,9 @@
                         <article class="space-y-4 text-gray-300">
                             <p>
                                 As a UI designer, following a systematic process helps ensure the effectiveness and success
-                                of your design efforts. While specific methodologies may vary, here is a general process to
-                                follow:
+                                of your design efforts. While specific methodologies may vary, here is a general process i
+                                like to
+                                follow
                             </p>
 
                             <p class="text-xs">

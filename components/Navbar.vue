@@ -1,5 +1,5 @@
 <template>
-    <div id="app" fixed>
+    <div id="app">
         <Title>sakhile Simelane </Title>
         <div id=" nav" class="bg-gradient-to-b from-[#101212] relative to-[#08201D] py-2">
             <nav class="container px-6 py-6 mx-auto md:flex md:justify-between md:items-center">
@@ -24,20 +24,8 @@
                 <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
                 <ul :class="showMenu ? 'flex' : 'hidden'"
                     class="flex-col mt-4 m-2 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
-                    <li>
-                        <nuxt-link to="/Work" class="text-gray-100 text-tahiti text-sm hover:text-blue-300">
-                            Capabilites</nuxt-link>
-                    </li>
-                    <li>
-                        <nuxt-link class="joinBtn text-gray-100 text-tahiti text-sm hover:text-blue-300 " to="Reachout">why
-                            me
-                        </nuxt-link>
-                    </li>
-                    <li>
-                        <nuxt-link class="  text-gray-100 text-tahiti text-sm hover:text-blue-300" to="About">
-                            Contact
-                        </nuxt-link>
-                    </li>
+
+
                     <li class="pt-2 ">
                         <a href="https://dribbble.com/shots/16498107-Glassmorphism"
                             class="relative px-6 py-3 font-bold text-white rounded-lg group">
