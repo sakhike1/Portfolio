@@ -15,7 +15,7 @@
                                 <p class="text-base font-semibold text-gray-900">Ntonkozo Skhosana</p>
                                 <p class="mt-2 text-base text-gray-700 sm:mt-0 sm:ml-2">Project Manager at Deams</p>
                             </div>
-                            <a href="#" title=""
+                            <a href="https://dribbble.com/shots/16443982-Landing-Page-with-Animation" title=""
                                 class="inline-flex items-center justify-center px-8 py-4 mt-4 text-base font-semibold text-white transition-all duration-200 bg-gradient-to-b from-[#101212] relative to-[#08201D] rounded-md hover:opacity-80 focus:opacity-80"
                                 role="button"> View my work </a>
                         </div>

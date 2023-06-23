@@ -25,8 +25,8 @@
                 <ul :class="showMenu ? 'flex' : 'hidden'"
                     class="flex-col mt-4 m-2 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
                     <li>
-                        <nuxt-link class="text-gray-100 text-tahiti text-sm hover:text-blue-300" to="/">
-                            Capabilites</nuxt-link>
+                        <a href="#work" class="text-gray-100 text-tahiti text-sm hover:text-blue-300" to="/">
+                            Capabilites</a>
                     </li>
                     <li>
                         <nuxt-link class="joinBtn text-gray-100 text-tahiti text-sm hover:text-blue-300 " to="Reachout">why
@@ -39,7 +39,8 @@
                         </nuxt-link>
                     </li>
                     <li class="pt-2 ">
-                        <a href="#_" class="relative px-6 py-3 font-bold text-white rounded-lg group">
+                        <a href="https://dribbble.com/shots/16498107-Glassmorphism"
+                            class="relative px-6 py-3 font-bold text-white rounded-lg group">
                             <span
                                 class="absolute inset-0 w-full h-full transition duration-300 transform -translate-x-1 -translate-y-1 bg-purple-800 ease opacity-80 group-hover:translate-x-0 group-hover:translate-y-0"></span>
                             <span

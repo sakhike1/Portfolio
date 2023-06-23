@@ -1,11 +1,9 @@
 <template>
     <div class="bg-black">
         <div class="mx-auto max-w-5xl pt-40 px-4 py-8">
-            <section class="rounded-lg bg-orange-700 p-8">
+            <section class="rounded-lg bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 p-8">
                 <div class="grid grid-cols-1 gap-12 sm:grid-cols-3 sm:items-center">
-                    <img alt="Man"
-                        src="https://images.unsplash.com/photo-1625019030820-e4ed970a6c95?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
-                        class="aspect-square w-full rounded-lg object-cover" />
+                    <img alt="Man" src="~/assets/sakhile.jpg" class="aspect-square w-full rounded-full object-cover" />
 
                     <blockquote class="sm:col-span-2">
                         <p class="text-xl font-medium sm:text-2xl text-white">
