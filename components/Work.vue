@@ -9,7 +9,7 @@
                                 <p class="text-2xl font-semibold leading-relaxed text-gray-900">
                                     Its always a good experience to work with sakhile he communicates effectively and is
                                     always
-                                    willing to adjust to any changes that are sometimes unforseen</p>
+                                    willing to adjust to any changes that are sometimes unforeseen</p>
                             </blockquote>
                             <div class="mt-6 sm:flex sm:items-baseline sm:justify-center md:justify-start">
                                 <p class="text-base font-semibold text-gray-900">Ntonkozo Skhosana</p>
