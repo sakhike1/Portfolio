@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-black">
+    <div class="bg-slate-900">
         <div class="mx-auto max-w-5xl pt-40 px-4 py-8">
             <section class="rounded-lg bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 p-8">
                 <div class="grid grid-cols-1 gap-12 sm:grid-cols-3 sm:items-center">
@@ -34,3 +34,4 @@ export default {
 </script>
 
 <style lang="scss" scoped></style>
+
