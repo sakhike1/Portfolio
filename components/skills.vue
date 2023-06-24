@@ -10,7 +10,8 @@
 
                 <div class="mt-8 grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
                     <div class="relative h-64 overflow-hidden sm:h-80 lg:h-full">
-                        <img alt="Party" src="~/assets/20943993.jpg" class="absolute inset-0 h-full w-full object-cover" />
+                        <img id="floating" alt="Party" src="~/assets/working.png"
+                            class="absolute inset-0 h-full w-full object-cover" />
                     </div>
 
                     <div class="lg:py-16">
@@ -56,4 +57,27 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+#floating {
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+@keyframes floating {
+    0% {
+        transform: translate(0, 0px);
+    }
+
+    50% {
+        transform: translate(0, 15px);
+    }
+
+    100% {
+        transform: translate(0, -0px);
+    }
+}
+</style>
