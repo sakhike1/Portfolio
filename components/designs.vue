@@ -8,9 +8,7 @@
                             <h2
                                 class="text-3xl font-bold leading-tight text-white sm:text-4xl lg:text-5xl lg:leading-tight">
                                 Use mobile app for better performance</h2>
-                            <p class="mt-4 text-base text-gray-50">Amet minim mollit non deserunt ullamco est sit aliqua
-                                dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam
-                                consequat sunt nostrud amet.</p>
+
 
                             <div class="flex flex-row items-center mt-8 space-x-4 lg:mt-12">
                                 <a href="#" title="" class="flex" role="button">
