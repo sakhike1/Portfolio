@@ -61,7 +61,6 @@
         </div>
     </div>
     <!-- END Product List Section: Categories Grid -->
-    <skills />
 </template>
 
 <script>

@@ -24,7 +24,6 @@
             </section>
         </div>
     </div>
-    <wireframe />
 </template>
 
 <script>

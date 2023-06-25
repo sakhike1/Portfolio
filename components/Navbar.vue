@@ -24,6 +24,25 @@
                 <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
                 <ul :class="showMenu ? 'flex' : 'hidden'"
                     class="flex-col mt-4 m-2 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
+                    <li>
+                        <nuxt-link class="text-gray-100 text-tahiti text-sm hover:text-blue-300" to="/">
+                            Home</nuxt-link>
+                    </li>
+                    <li>
+                        <nuxt-link class="text-gray-100 text-tahiti text-sm hover:text-blue-300" to="designs">
+                            my design</nuxt-link>
+                    </li>
+                    <li>
+                        <nuxt-link class="joinBtn text-gray-100 text-tahiti text-sm hover:text-blue-300 " to="about">About
+                            me
+                        </nuxt-link>
+                    </li>
+                    <li>
+                        <nuxt-link class="joinBtn text-gray-100 text-tahiti text-sm hover:text-blue-300 "
+                            to="contact">Contact
+
+                        </nuxt-link>
+                    </li>
 
 
                     <li class="pt-2 ">
@@ -40,7 +59,6 @@
             </nav>
         </div>
     </div>
-    <Hero />
 </template>
   
 <script>

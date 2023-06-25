@@ -1,5 +1,5 @@
 <template>
-    <div class="py-16 bg-gradient-to-b from-[#101212] relative to-[#08201D]">
+    <div class="py-16  bg-slate-900">
         <div class="xl:container m-auto px-6 text-gray-600 md:px-12 xl:px-16">
             <div class="space-y-4 m-40">
                 <details
@@ -57,7 +57,6 @@
 
         </div>
     </div>
-    <Footer />
 </template>
 
 <script>

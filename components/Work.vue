@@ -1,7 +1,8 @@
 <template>
     <div id="myDiv">
-        <section class="pt-10 bg-gradient-to-b from-[#101212] relative to-[#08201D] py-10  2xl:py-24  sm:pt-16 md:pt-0">
-            <div class="px-4 mx-auto rounded-md bg-amber-400 max-w-7xl sm:px-6 lg:px-8">
+        <section class="pt-10  bg-slate-900 py-10  2xl:py-24  sm:pt-16 md:pt-0">
+            <div
+                class="px-4 mx-auto rounded-md bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 max-w-7xl sm:px-6 lg:px-8">
                 <div class="2xl:pl-24">
                     <div class="grid grid-cols-1 gap-y-12 md:grid-cols-2 md:gap-x-8 2xl:gap-x-20">
                         <div class="text-center md:py-16 xl:py-24 md:text-left">
@@ -31,7 +32,6 @@
         </section>
 
     </div>
-    <about />
 </template>
 
 <script>
