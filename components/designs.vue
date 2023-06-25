@@ -1,6 +1,6 @@
 <template>
     <div>
-        <section class="bg-blue-600 2xl:py-24 2xl:bg-white">
+        <section data-aos="fade-right" data-aos-duration="3000" class="bg-blue-600 2xl:py-24 2xl:bg-white">
             <div class="px-4 mx-auto overflow-hidden bg-blue-600 max-w-7xl sm:px-6 lg:px-8">
                 <div class="py-10 sm:py-16 lg:py-24 2xl:pl-24">
                     <div class="grid items-center grid-cols-1 gap-y-12 lg:grid-cols-2 lg:gap-x-8 2xl:gap-x-20">

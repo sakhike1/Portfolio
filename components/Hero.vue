@@ -1,7 +1,7 @@
 <template>
     <div class="py-16 bg-slate-900">
         <div class="xl:container m-auto px-6 text-gray-600 md:px-12 xl:px-16">
-            <div
+            <div data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500"
                 class=" dark:lg:bg-darker lg:p-16 rounded-[4rem] space-y-6 md:flex md:gap-6 justify-center md:space-y-0 lg:items-center">
                 <div class="md:5/12 lg:w-1/2">
                     <img id="floating" src="~/assets/3516822-removebg-preview.png" alt="image" loading="lazy" width=""
@@ -28,11 +28,21 @@
 </template>
 
 <script>
+import AOS from "aos";
+import "aos/dist/aos.css";
 export default {
+    mounted() {
+        AOS.init({});
 
-}
+
+    },
+
+
+
+};
+
+
 </script>
-
 <style lang="scss" scoped>
 #floating {
     animation-name: floating;

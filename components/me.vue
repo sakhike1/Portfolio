@@ -7,7 +7,8 @@
                 <div class="block rounded-lg   dark:bg-neutral-700">
                     <div class="flex flex-wrap items-center">
                         <div class="hidden shrink-0 grow-0 basis-auto lg:flex lg:w-6/12 xl:w-4/12">
-                            <img src="~/assets/istockphoto-1310565040-612x612.jpg" alt="Trendy Pants and Shoes"
+                            <img data-aos="fade-right" data-aos-duration="3000"
+                                src="~/assets/istockphoto-1310565040-612x612.jpg" alt="Trendy Pants and Shoes"
                                 class="w-full h-[600px] rounded-t-lg lg:rounded-tr-none lg:rounded-bl-lg" />
                         </div>
                         <div class="w-full shrink-0 grow-0 basis-auto lg:w-6/12 xl:w-8/12">
