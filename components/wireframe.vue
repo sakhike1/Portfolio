@@ -4,7 +4,8 @@
             <div
                 class=" dark:lg:bg-darker lg:p-16 rounded-[4rem] space-y-6 md:flex md:gap-6 justify-center md:space-y-0 lg:items-center">
                 <div class="md:5/12 lg:w-1/2">
-                    <img src="~/assets/wireframe.png" alt="image" loading="lazy" width="" height="" />
+                    <img data-aos="fade-right" data-aos-duration="3000" src="~/assets/wireframe.png" alt="image"
+                        loading="lazy" width="" height="" />
                 </div>
                 <div class="md:7/12 lg:w-1/2">
                     <h2 class="text-3xl font-bold text-white md:text-4xl dark:text-white">

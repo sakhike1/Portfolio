@@ -3,7 +3,7 @@
         <section>
             <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
                 <div class="max-w-3xl">
-                    <h2 class="text-3xl text-white font-bold sm:text-4xl">
+                    <h2 data-aos="fade-right" data-aos-duration="3000" class="text-3xl text-white font-bold sm:text-4xl">
                         Process and guidelines that i like to follow to understand the clients needs
                     </h2>
                 </div>
