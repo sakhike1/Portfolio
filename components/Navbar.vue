@@ -46,7 +46,7 @@
 
 
                     <li class="pt-2 ">
-                        <a href="https://dribbble.com/shots/16498107-Glassmorphism"
+                        <a href="https://dribbble.com/shots/16444047-Thumela-imali-app-for-all-your-payment-needs"
                             class="relative px-6 py-3 font-bold text-white rounded-lg group">
                             <span
                                 class="absolute inset-0 w-full h-full transition duration-300 transform -translate-x-1 -translate-y-1 bg-purple-800 ease opacity-80 group-hover:translate-x-0 group-hover:translate-y-0"></span>

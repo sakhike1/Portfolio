@@ -8,7 +8,7 @@
                         height="" />
                 </div>
                 <div class="md:7/12 lg:w-1/2">
-                    <h2 class="text-3xl font-bold text-white md:text-4xl dark:text-white">
+                    <h2 id="box" class="text-3xl font-bold text-white md:text-4xl dark:text-white">
                         i like to Continuously learn and stay updated on the latest UI design trends
                     </h2>
                     <p class="my-8 text-gray-400 dark:text-gray-300">
@@ -34,8 +34,21 @@ export default {
     mounted() {
         AOS.init({});
 
+        let box2 = ["i like to Continuously learn and stay updated on the latest UI design trends", "Implementing sustainability into digital products should happen throughout the design process", "Create resources fully adapted to everyday life by incorporating inclusive design"]
+        let box = document.getElementById("box");
+
+        function random1() {
+            let random = [Math.floor(Math.random() * box2.length)]
+            box.textContent = box2[random]
+            console.log(random1())
+
+
+
+        }
+        setInterval(random1, 5000);
 
     },
+
 
 
 
