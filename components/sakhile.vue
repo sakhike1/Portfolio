@@ -7,11 +7,9 @@
                     <img alt="Man" src="~/assets/sakhile.jpg" class="aspect-square w-full rounded-full object-cover" />
 
                     <blockquote class="sm:col-span-2">
-                        <p class="text-xl font-medium sm:text-2xl text-white">
-                            I'm a UI
-                            front-end developer, i like Building things on the web, i believe in adding value and going
-                            above
-                            and beyond
+                        <p class="text-sm text-white">
+                            I'm a UI front-end developer, I like Building things on the web, and I believe in adding value
+                            and going above and beyond.
                         </p>
 
                         <cite class="mt-8 inline-flex items-center not-italic">

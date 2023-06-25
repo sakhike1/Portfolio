@@ -30,7 +30,7 @@
                     </li>
                     <li>
                         <nuxt-link class="text-gray-100 text-tahiti text-sm hover:text-blue-300" to="designs">
-                            my design</nuxt-link>
+                            My design</nuxt-link>
                     </li>
                     <li>
                         <nuxt-link class="joinBtn text-gray-100 text-tahiti text-sm hover:text-blue-300 " to="about">About

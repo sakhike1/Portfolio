@@ -19,17 +19,24 @@
 
                                 <p class="mb-6 text-neutral-500 dark:text-neutral-300">
                                     I'm thrilled to have the opportunity to introduce myself as a UI Front-End Developer. My
-                                    passion lies in helping companies like Deams Mpilo EnviroServices establish a strong and
+                                    passion lies in helping companies like Deams, Mpilo EnviroServices just to name a few
+                                    establish a strong and
                                     relatable online presence through rebranding and creating visually appealing user
                                     interfaces.
                                 </p>
                                 <p class="text-neutral-500 dark:text-neutral-300">
-                                    With extensive experience in the industry, I have honed my skills in various design and
-                                    development tools. My design workflow revolves around popular software such as Figma,
-                                    Adobe XD, and Photoshop, enabling me to craft engaging and intuitive user experiences. I
-                                    believe that a well-designed interface is the bridge that connects users with digital
-                                    products, making their interactions seamless and enjoyable
+                                    I strongly believe that effective design has the power to shape positive experiences and
+                                    evoke emotions. It goes beyond the visual appeal and engages users on a deeper level,
+                                    leaving a lasting impression. By meticulously balancing form and function, I strive to
+                                    create interfaces that not only look beautiful but also empower users to effortlessly
+                                    navigate and achieve their goals.
                                 </p>
+                                <p class="text-neutral-500 pt-10 dark:text-neutral-300">
+                                    Beyond the realm of design, I am an outgoing person who thrives in the company of
+                                    others. I find immense joy in connecting with people from all walks of life, learning
+                                    about their unique perspectives, and engaging in meaningful conversations. Whether it's
+                                    collaborating with clients, fellow designers, or users, I believe in the power of human
+                                    interaction to drive innovative and inclusive design solutions.</p>
                             </div>
                         </div>
                     </div>
