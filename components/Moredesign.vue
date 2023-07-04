@@ -35,7 +35,7 @@
                 <!-- End Col -->
 
                 <div class="lg:col-span-4 mt-10 lg:mt-0">
-                    <img class="w-full rounded-xl" src="~/assets/Desktop - 2 (1).jpg" alt="Image Description">
+                    <img class="w-full rounded-xl" src="~/assets/blogs.jpg" alt="Image Description">
                 </div>
                 <!-- End Col -->
             </div>
