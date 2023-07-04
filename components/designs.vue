@@ -6,7 +6,8 @@
                         class="text-xs"> <span class="text-blue-900"> and things</span>
                 </h2>
             </div>
-            <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+            <div data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500"
+                class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
                 <div
                     class="group p-6 sm:p-8 rounded-3xl bg-gray-300 border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
                     <div class="relative overflow-hidden rounded-xl">
