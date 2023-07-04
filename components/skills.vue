@@ -11,7 +11,7 @@
                 <div class="mt-8 grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
                     <div class="relative  h-full w-full">
                         <img id="floating" alt="Party" src="~/assets/working.png"
-                            class="absolute inset-0 h-[300px] w-full object-fit" />
+                            class="absolute inset-0 h-[300px] w-full object-fit " />
                     </div>
 
                     <div class="lg:py-16">
@@ -51,15 +51,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-#floating {
-    animation-name: floating;
-    animation-duration: 3s;
-    animation-iteration-count: infinite;
-    animation-timing-function: ease-in-out;
-    margin-left: 30px;
-    margin-top: 5px;
-}
-
 @keyframes floating {
     0% {
         transform: translate(0, 0px);

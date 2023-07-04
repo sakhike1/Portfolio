@@ -11,8 +11,8 @@
                     <h2 class="text-3xl font-bold text-white md:text-4xl dark:text-white">
                         Creating a wireframe can be incredibly helpful in the design and development process
                     </h2>
-                    <p class="my-8 text-gray-400 dark:text-gray-300">
-                        it really helps me to map out the user journey and understand how the users will interact with the
+                    <p class="my-8 text-sm text-gray-400 dark:text-gray-300">
+                        It really helps me to map out the user journey and understand how the users will interact with the
                         design.
                     </p>
 

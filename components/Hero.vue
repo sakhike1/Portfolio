@@ -4,14 +4,14 @@
             <div data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500"
                 class=" dark:lg:bg-darker lg:p-16 rounded-[4rem] space-y-6 md:flex md:gap-6 justify-center md:space-y-0 lg:items-center">
                 <div class="md:5/12 lg:w-1/2">
-                    <img id="floating" src="~/assets/3516822-removebg-preview.png" alt="image" loading="lazy" width=""
-                        height="" />
+                    <img class="sm:p-10 sm:h-full" id="floating" src="~/assets/3516822-removebg-preview.png" alt="image"
+                        loading="lazy" width="" height="" />
                 </div>
                 <div class="md:7/12 lg:w-1/2">
                     <h2 id="box" class="text-3xl font-bold text-white md:text-4xl dark:text-white">
                         i like to Continuously learn and stay updated on the latest UI design trends
                     </h2>
-                    <p class="my-8 text-gray-400 dark:text-gray-300">
+                    <p class="my-8 text-sm text-gray-400 dark:text-gray-300">
                         With every project, i always demonstrates an unwavering
                         commitment to pushing the boundaries of design, transforming ideas
                         into extraordinary digital experiences that captivate and inspire.
@@ -77,6 +77,20 @@ export default {
 
     100% {
         transform: translate(0, -0px);
+    }
+}
+
+
+
+
+@media screen and (max-width: 375px) and (min-width: 667px) {
+    .text-center {
+        text-align: left;
+        margin: 20px 0 0;
+    }
+
+    img {
+        display: none;
     }
 }
 </style>

@@ -1,45 +1,86 @@
 <template>
-    <div>
-        <section data-aos="fade-right" data-aos-duration="3000" class="bg-blue-600 2xl:py-24 2xl:bg-white">
-            <div class="px-4 mx-auto overflow-hidden bg-blue-600 max-w-7xl sm:px-6 lg:px-8">
-                <div class="py-10 sm:py-16 lg:py-24 2xl:pl-24">
-                    <div class="grid items-center grid-cols-1 gap-y-12 lg:grid-cols-2 lg:gap-x-8 2xl:gap-x-20">
-                        <div>
-                            <h2
-                                class="text-3xl font-bold leading-tight text-white sm:text-4xl lg:text-5xl lg:leading-tight">
-                                Use mobile app for better performance</h2>
+    <div class="py-12">
+        <div class="xl:container  m-auto px-6 text-gray-600 md:px-12 xl:px-6">
+            <div class="mb-12 space-y-2 text-left">
+                <h2 class="text-3xl font-bold text-gray-800 md:text-4xl dark:text-white">My work designs <br
+                        class="text-xs"> <span class="text-blue-900"> and things</span>
+                </h2>
 
-
-                            <div class="flex flex-row items-center mt-8 space-x-4 lg:mt-12">
-                                <a href="#" title="" class="flex" role="button">
-                                    <img class="w-auto h-14"
-                                        src="https://cdn.rareblocks.xyz/collection/celebration/images/cta/8/btn-app-store.svg"
-                                        alt="" />
-                                </a>
-
-                                <a href="#" title="" class="flex" role="button">
-                                    <img class="w-auto h-14"
-                                        src="https://cdn.rareblocks.xyz/collection/celebration/images/cta/8/btn-play-store.svg"
-                                        alt="" />
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="relative px-12">
-                            <svg class="absolute inset-x-0 bottom-0 left-1/2 -translate-x-1/2 -mb-48 lg:-mb-72 text-yellow-300 w-[460px] h-[460px] sm:w-[600px] sm:h-[600px]"
-                                fill="currentColor" viewBox="0 0 8 8">
-                                <circle cx="4" cy="4" r="3" />
-                            </svg>
-                            <img class="relative w-full max-w-xs mx-auto -mb-60 lg:-mb-64"
-                                src="https://cdn.rareblocks.xyz/collection/celebration/images/cta/8/iphone-mockup.png"
-                                alt="" />
-                        </div>
+            </div>
+            <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+                <div
+                    class="group p-6 sm:p-8 rounded-3xl bg-gray-300 border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
+                    <div class="relative overflow-hidden rounded-xl">
+                        <img src="~/assets/Thumbnail.jpg" loading="lazy" width="1000" height="667"
+                            class="h-64 w-full object-cover object-top transition duration-500 group-hover:scale-105" />
                     </div>
+                    <div class="mt-6 relative">
+
+                        <nuxt-link href="https://dribbble.com/shots/21904516-Watch-app"
+                            class="relative inline-flex items-center justify-start inline-block px-5 py-3 overflow-hidden font-bold rounded-full group">
+                            <span
+                                class="w-32 h-32 rotate-45 translate-x-12 -translate-y-2 absolute left-0 top-0 bg-white opacity-[3%]"></span>
+                            <span
+                                class="absolute top-0 left-0 w-48 h-48 -mt-1 transition-all duration-500 ease-in-out rotate-45 -translate-x-56 -translate-y-24 bg-white opacity-100 group-hover:-translate-x-8"></span>
+                            <span
+                                class="relative w-full text-left text-gray-400 transition-colors duration-200 ease-in-out group-hover:text-black-200">View
+                                work
+                            </span>
+                            <span class="absolute inset-0 border-2 border-white rounded-full"></span>
+                        </nuxt-link>
+                    </div>
+
+                </div>
+                <div
+                    class="group p-6 sm:p-8 rounded-3xl bg-gray-300 border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
+                    <div class="relative overflow-hidden rounded-xl">
+                        <img src="~/assets/Home.png" loading="lazy" width="1000" height="667"
+                            class="h-64 w-full object-cover object-top transition duration-500 group-hover:scale-105" />
+                    </div>
+                    <div class="mt-6 relative">
+
+                        <nuxt-link href="https://dribbble.com/shots/21904516-Watch-app"
+                            class="relative inline-flex items-center justify-start inline-block px-5 py-3 overflow-hidden font-bold rounded-full group">
+                            <span
+                                class="w-32 h-32 rotate-45 translate-x-12 -translate-y-2 absolute left-0 top-0 bg-white opacity-[3%]"></span>
+                            <span
+                                class="absolute top-0 left-0 w-48 h-48 -mt-1 transition-all duration-500 ease-in-out rotate-45 -translate-x-56 -translate-y-24 bg-white opacity-100 group-hover:-translate-x-8"></span>
+                            <span
+                                class="relative w-full text-left text-gray-400 transition-colors duration-200 ease-in-out group-hover:text-black-200">View
+                                work
+                            </span>
+                            <span class="absolute inset-0 border-2 border-white rounded-full"></span>
+                        </nuxt-link>
+                    </div>
+
+                </div>
+                <div
+                    class="group p-6 sm:p-8 rounded-3xl bg-gray-300 border border-gray-100 dark:shadow-none dark:border-gray-700 dark:bg-gray-800 bg-opacity-50 shadow-2xl shadow-gray-600/10">
+                    <div class="relative overflow-hidden rounded-xl">
+                        <img src="~/assets/phone.png" loading="lazy" width="1000" height="667"
+                            class="h-64 w-full object-fit object-top transition duration-500 group-hover:scale-105" />
+                    </div>
+                    <div class="mt-6 relative">
+
+                        <nuxt-link href="https://dribbble.com/shots/21904516-Watch-app"
+                            class="relative inline-flex items-center justify-start inline-block px-5 py-3 overflow-hidden font-bold rounded-full group">
+                            <span
+                                class="w-32 h-32 rotate-45 translate-x-12 -translate-y-2 absolute left-0 top-0 bg-white opacity-[3%]"></span>
+                            <span
+                                class="absolute top-0 left-0 w-48 h-48 -mt-1 transition-all duration-500 ease-in-out rotate-45 -translate-x-56 -translate-y-24 bg-white opacity-100 group-hover:-translate-x-8"></span>
+                            <span
+                                class="relative w-full text-left text-gray-400 transition-colors duration-200 ease-in-out group-hover:text-black-200">View
+                                work
+                            </span>
+                            <span class="absolute inset-0 border-2 border-white rounded-full"></span>
+                        </nuxt-link>
+                    </div>
+
                 </div>
             </div>
-        </section>
-
+        </div>
     </div>
+    <Moredesign />
 </template>
 
 <script>
