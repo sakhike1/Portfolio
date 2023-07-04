@@ -5,7 +5,6 @@
                 <h2 class="text-3xl font-bold text-gray-800 md:text-4xl dark:text-white">My work designs <br
                         class="text-xs"> <span class="text-blue-900"> and things</span>
                 </h2>
-
             </div>
             <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
                 <div
@@ -16,7 +15,7 @@
                     </div>
                     <div class="mt-6 relative">
 
-                        <nuxt-link href="https://dribbble.com/shots/21904516-Watch-app"
+                        <nuxt-link href="https://dribbble.com/shots/21904754-flat-iphone"
                             class="relative inline-flex items-center justify-start inline-block px-5 py-3 overflow-hidden font-bold rounded-full group">
                             <span
                                 class="w-32 h-32 rotate-45 translate-x-12 -translate-y-2 absolute left-0 top-0 bg-white opacity-[3%]"></span>
@@ -39,7 +38,7 @@
                     </div>
                     <div class="mt-6 relative">
 
-                        <nuxt-link href="https://dribbble.com/shots/21904516-Watch-app"
+                        <nuxt-link href="https://dribbble.com/shots/21904926-landing-page"
                             class="relative inline-flex items-center justify-start inline-block px-5 py-3 overflow-hidden font-bold rounded-full group">
                             <span
                                 class="w-32 h-32 rotate-45 translate-x-12 -translate-y-2 absolute left-0 top-0 bg-white opacity-[3%]"></span>
