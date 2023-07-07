@@ -1,7 +1,7 @@
 <template>
     <div id="app">
         <Title>sakhile Simelane </Title>
-        <div id=" nav" class="bg-gradient-to-b from-[#101212] relative to-[#08201D] py-2">
+        <div id=" nav" class="bg-gradient-to-r from-gray-700 via-gray-900 to-black py-2">
             <nav class="container px-6 py-6 mx-auto md:flex md:justify-between md:items-center">
                 <div class="flex items-center justify-between">
                     <nuxt-link to="/"
