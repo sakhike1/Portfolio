@@ -16,7 +16,7 @@
 </template>
 
 <script>
-import vueCursor from "../components/vueCursor.vue";
+import vueCursor from "../components/VueCursor.vue";
 export default {
   components: {
     vueCursor
