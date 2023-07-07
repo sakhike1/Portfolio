@@ -1,12 +1,12 @@
 <template>
     <div id="app">
-        <Title>sakhile Simelane </Title>
+        <Title>sakhile's porfolio </Title>
         <div id=" nav" class="bg-gradient-to-r from-red-400 via-gray-300 to-blue-500 py-2">
             <nav class="container px-6 py-4 mx-auto md:flex md:justify-between md:items-center">
                 <div class="flex items-center justify-between">
                     <nuxt-link to="/"
-                        class=" text-transparent bg-clip-text text-white md:text-2xl hover:text-blue-200">Sakhile
-                        Simelane
+                        class=" text-transparent bg-clip-text text-white md:text-2xl hover:text-blue-200">Sakhile's
+                        portfolio
                     </nuxt-link>
                     <!-- Mobile menu button -->
                     <div @click="toggleNav" class="flex-end md:hidden">
