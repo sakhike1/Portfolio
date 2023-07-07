@@ -1,8 +1,8 @@
 <template>
     <div id="app">
         <Title>sakhile Simelane </Title>
-        <div id=" nav" class="bg-gradient-to-r from-gray-700 via-gray-900 to-black py-2">
-            <nav class="container px-6 py-6 mx-auto md:flex md:justify-between md:items-center">
+        <div id=" nav" class="bg-gradient-to-r from-red-400 via-gray-300 to-blue-500 py-2">
+            <nav class="container px-6 py-4 mx-auto md:flex md:justify-between md:items-center">
                 <div class="flex items-center justify-between">
                     <nuxt-link to="/"
                         class=" text-transparent bg-clip-text text-white md:text-2xl hover:text-blue-200">Sakhile
@@ -47,12 +47,10 @@
 
                     <li class="pt-2 ">
                         <a href="https://dribbble.com/shots/16444047-Thumela-imali-app-for-all-your-payment-needs"
-                            class="relative px-6 py-3 font-bold text-white rounded-lg group">
+                            class="px-5 py-2.5 relative rounded group overflow-hidden font-medium bg-purple-50 text-purple-600 inline-block">
                             <span
-                                class="absolute inset-0 w-full h-full transition duration-300 transform -translate-x-1 -translate-y-1 bg-purple-800 ease opacity-80 group-hover:translate-x-0 group-hover:translate-y-0"></span>
-                            <span
-                                class="absolute inset-0 w-full h-full transition duration-300 transform translate-x-1 translate-y-1 bg-pink-800 ease opacity-80 group-hover:translate-x-0 group-hover:translate-y-0 mix-blend-screen"></span>
-                            <span class="relative">View Work</span>
+                                class="absolute top-0 left-0 flex w-full h-0 mb-0 transition-all duration-200 ease-out transform translate-y-0 bg-purple-600 group-hover:h-full opacity-90"></span>
+                            <span class="relative group-hover:text-white">View my work</span>
                         </a>
                     </li>
                 </ul>
