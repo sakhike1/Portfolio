@@ -16,10 +16,10 @@
 </template>
 
 <script>
-import vueCursor from "../components/VueCursor.vue";
+import VueCursor from "../components/VueCursor.vue";
 export default {
   components: {
-    vueCursor
+    VueCursor
   }
 };
 </script>
