@@ -6,7 +6,7 @@
                 <a href="javascript:void(0)"
                     class="sm:col-span-2 md:col-span-1 block group relative transition ease-out active:opacity-75 overflow-hidden">
                     <img src="https://cdn.tailkit.com/media/placeholders/photo-PDX_a_82obo-700x700.jpg" alt="Product Image"
-                        class="transform transition ease-out group-hover:scale-110">
+                        class="transform  transition ease-out group-hover:scale-110">
                     <div class="absolute inset-0 bg-black bg-opacity-25 transition ease-out group-hover:bg-opacity-0"></div>
                     <div class="p-4 flex items-center justify-center absolute inset-0">
 

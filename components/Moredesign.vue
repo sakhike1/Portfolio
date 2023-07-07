@@ -35,8 +35,8 @@
                 </div>
                 <!-- End Col -->
 
-                <div class="lg:col-span-4 mt-10 lg:mt-0">
-                    <img class="w-full rounded-xl" src="~/assets/blogs.jpg" alt="Image Description">
+                <div class="lg:col-span-4 mt-10 group-hover:scale-105 lg:mt-0">
+                    <img class="w-full hover:scale-105 rounded-xl" src="~/assets/blogs.jpg" alt="Image Description">
                 </div>
                 <!-- End Col -->
             </div>
