@@ -25,21 +25,20 @@
                 <ul :class="showMenu ? 'flex' : 'hidden'"
                     class="flex-col mt-4 m-2 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
                     <li>
-                        <nuxt-link class="text-gray-100 text-tahiti text-sm hover:text-blue-300" to="/">
+                        <nuxt-link class="text-gray-100 text-tahiti text-xs hover:text-black " to="/">
                             Home</nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link class="text-gray-100 text-tahiti text-sm hover:text-blue-300" to="designs">
+                        <nuxt-link class="text-gray-100 text-tahiti text-xs hover:text-black " to="designs">
                             My design</nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link class="joinBtn text-gray-100 text-tahiti text-sm hover:text-blue-300 " to="about">About
+                        <nuxt-link class="joinBtn text-gray-100 text-tahiti text-xs hover:text-black  " to="about">About
                             me
                         </nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link class="joinBtn text-gray-100 text-tahiti text-sm hover:text-blue-300 "
-                            to="contact">Contact
+                        <nuxt-link class="joinBtn text-gray-100 text-tahiti text-xs hover:text-black " to="contact">Contact
 
                         </nuxt-link>
                     </li>
