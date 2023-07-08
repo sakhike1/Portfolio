@@ -1,6 +1,6 @@
 <template>
     <div>
-        <section class="bg-blue-600 2xl:py-24 2xl:bg-white">
+        <section class=" 2xl:py-24 2xl:bg-white">
             <div
                 class="px-4 mx-auto rounded-md overflow-hidden bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-400 max-w-7xl sm:px-6 lg:px-8">
                 <div class="py-10 sm:py-16 lg:py-24 2xl:pl-24">

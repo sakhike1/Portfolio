@@ -1,42 +1,46 @@
 <template>
-    <div class=" bg-slate-900 pt-20">
-        <section>
-            <div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
-                <div class="max-w-3xl">
-                    <h2 data-aos="fade-right" data-aos-duration="3000" class="text-3xl text-white font-bold sm:text-4xl">
-                        Process and guidelines that i like to follow to understand the clients needs
-                    </h2>
-                </div>
+    <div class="bg-blue-50">
+        <header class="">
+            <div class="px-4 mx-auto sm:px-6 lg:px-8">
 
-                <div class="mt-8 grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
-                    <div class="relative  h-full w-full">
-                        <img id="floating" alt="Party" src="~/assets/working.png"
-                            class="absolute inset-0 h-[300px] w-full object-fit " />
-                    </div>
+            </div>
+        </header>
 
-                    <div class="lg:py-16">
-                        <article class="space-y-4 text-gray-300">
+        <section class="py-10 sm:py-16 lg:py-24">
+            <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
+                <div class="grid items-center grid-cols-1 gap-12 lg:grid-cols-2">
+                    <div>
+                        <h1 class="text-4xl font-bold text-black sm:text-6xl lg:text-3xl">
                             <p>
                                 As a UI designer, following a systematic process helps ensure the effectiveness and success
                                 of your design efforts.
 
                             </p>
-
-                            <p class="text-xs text-gray-400">
-                                1. Gather information about the project, its goals, and target audience 2. Conduct research
-                                to understand user needs, preferences, and behaviors. 3. Define project objectives,
-                                constraints, and desired outcomes.4. Gather information about the project, its goals, and
-                                target audience 5. Create user personas that represent the target audience.
+                        </h1>
 
 
-
-
-                            </p>
+                        <p class="text-xs text-gray-400 pt-2">
+                            1. Gather information about the project, its goals, and target audience 2. Conduct research
+                            to understand user needs, preferences, and behaviors. 3. Define project objectives,
+                            constraints, and desired outcomes.4. Gather information about the project, its goals, and
+                            target audience 5. Create user personas that represent the target audience.
 
 
 
 
-                        </article>
+                        </p>
+
+                        <div class="mt-10 sm:flex sm:items-center sm:space-x-8">
+                            <a href="https://dribbble.com/shots/21900897-bloggers" title=""
+                                class="inline-flex items-center justify-center px-10 py-4 text-base font-semibold text-white transition-all duration-200 bg-orange-500 hover:bg-orange-600 focus:bg-orange-600"
+                                role="button"> Start exploring </a>
+
+
+                        </div>
+                    </div>
+
+                    <div>
+                        <img id="floating" alt="Party" src="~/assets/working.png">
                     </div>
                 </div>
             </div>

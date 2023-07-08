@@ -1,5 +1,5 @@
 <template>
-    <span>
+    <span class="element" @mouseover="addColor" @mouseout="removeColor">
         <span class="vueCursor"></span>
         <span class="vueCursor--Small"></span>
     </span>
@@ -48,8 +48,10 @@ export default {
         width: ${this.dotSize * 2}px;
          height: ${this.dotSize * 2}px;
          background-color: ${this.dotColor}`;
+
         });
     }
+
 };
 </script>
   
@@ -77,6 +79,18 @@ export default {
 
 .vueCursor--Small {
     background-color: #aaa;
+}
+
+/* target the element */
+.vueCursor {
+    /* define the default color */
+    color: black;
+}
+
+/* add a hover effect */
+.vueCursor:hover {
+    /* define the color on hover */
+    color: red;
 }
 </style>
   
