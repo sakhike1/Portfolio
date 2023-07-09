@@ -1,8 +1,9 @@
 <template>
     <!-- Product List Section: Categories Grid -->
-    <div class="bg-blue-50 dark:text-gray-100 dark:bg-gray-900">
+    <div class=" dark:text-gray-100 dark:bg-gray-900">
         <div class="container xl:max-w-7xl mx-auto px-4 py-16 lg:px-8 lg:py-32">
-            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4" data-aos="fade-right"
+                data-aos-duration="3000">
                 <a href="javascript:void(0)"
                     class="sm:col-span-2 md:col-span-1 block group relative transition ease-out active:opacity-75 overflow-hidden">
                     <img src="https://cdn.tailkit.com/media/placeholders/photo-PDX_a_82obo-700x700.jpg" alt="Product Image"

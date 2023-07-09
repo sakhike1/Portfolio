@@ -1,10 +1,13 @@
 <template>
-    <div class="py-12 ">
+    <div class="py-30 ">
         <div class="xl:container  m-auto px-6 text-gray-600 md:px-12 xl:px-6">
-            <div class="mb-12 space-y-2 text-left">
-                <h2 class="text-3xl font-bold text-gray-800 md:text-4xl dark:text-white">My work designs <br
-                        class="text-xs"> <span class="text-blue-900"> and things</span>
-                </h2>
+            <div class="mb-12 py-20 space-y-2 text-center">
+                <h1 class="text-3xl font-bold text-gray-800 sm:text-4xl dark:text-white">
+                    Some of my recent work
+                </h1>
+                <p class="mt-3 text-gray-600 dark:text-gray-400">
+                    design is a strong desire to create
+                </p>
             </div>
             <div data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500"
                 class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">

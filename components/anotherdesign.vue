@@ -2,7 +2,7 @@
     <div>
         <section class=" 2xl:py-24 2xl:bg-white">
             <div
-                class="px-4 mx-auto rounded-md overflow-hidden bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-400 max-w-7xl sm:px-6 lg:px-8">
+                class="px-4 mx-auto rounded-md overflow-hidden Pastel bg-gradient-to-tr from-violet-500 to-orange-300 max-w-7xl sm:px-6 lg:px-8">
                 <div class="py-10 sm:py-16 lg:py-24 2xl:pl-24">
                     <div data-aos="fade-right" data-aos-duration="3000"
                         class="grid items-center grid-cols-1 gap-y-12 lg:grid-cols-2 lg:gap-x-8 2xl:gap-x-20">

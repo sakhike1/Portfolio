@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-blue-100">
+    <div class="">
         <div class="mx-auto max-w-5xl pt-40 px-4 py-8">
             <section data-aos="fade-right" data-aos-duration="3000"
                 class="rounded-lg bg-gradient-to-r from-indigo-200 via-red-200 to-yellow-100 p-8">

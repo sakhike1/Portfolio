@@ -1,7 +1,7 @@
 <template>
     <div>
         <!-- Hero -->
-        <div class="max-w-[85rem] mx-auto pb-10 px-4 pt-20 sm:px-6 lg:px-8">
+        <div class="max-w-[85rem] mx-auto pb-10 px-4  pt-40 sm:px-6 lg:px-8">
             <!-- Grid -->
             <div data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500"
                 class="grid lg:grid-cols-7 lg:gap-x-8 xl:gap-x-12 lg:items-center">

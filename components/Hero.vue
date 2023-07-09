@@ -1,5 +1,5 @@
 <template>
-    <div class="py-16 bg-blue-100">
+    <div class="py-16 ">
         <div class="xl:container m-auto px-6 text-gray-600 md:px-12 xl:px-16">
             <div data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500"
                 class=" dark:lg:bg-darker lg:p-16 rounded-[4rem] space-y-6 md:flex md:gap-6 justify-center md:space-y-0 lg:items-center">
